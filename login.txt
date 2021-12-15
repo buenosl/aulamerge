@@ -1,2 +1,6 @@
 inicio login
+<<<<<<< HEAD
 insere codigo
+=======
+insere senha
+>>>>>>> senha
